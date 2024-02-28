@@ -1,0 +1,9 @@
+TRAUMA TEAM CALLOUT DETAILS:
+Who? @person_generic
+How many? #med
+TT memberships: #vlo
+Injury: @injury
+Where? @location_generic
+Threat: @threat %0.1.[AND @threat]
+Threat still present? $.Yes.No
+Modifier: @modifier

@@ -1,0 +1,25 @@
+Sedan
+Compact
+Crossover
+Sport car
+Super car
+SVU
+Pick-up truck
+Sports bike
+Chopper
+Harley-type
+Moped
+Scooter
+Electric skateboard
+Bicycle
+Cyberchair
+Van
+Mini-van
+Lorry %.[with trailer]
+*0.1 Tank
+Humvee
+Large RV
+Small
+Bus
+Double decker Bus
+Mini-bus

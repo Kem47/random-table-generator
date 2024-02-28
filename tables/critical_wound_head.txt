@@ -1,0 +1,25 @@
+Minor Cut
+Poked Eye
+Ear Bash
+Rattling Blow
+Black Eye
+Sliced Ear
+Struck Forehead
+Fractured Jaw
+Major Eye Wound
+Major Ear Wound
+Broken Nose
+Broken Jaw
+Concussion
+Smashed Mouth
+Mangled Ear
+Devastated Eye
+Disfigurement
+Mangled Jaw
+Decapitation
+Smashed #hi.32 teeth
+Brain Injury
+Crushed Windpipe
+Cracked skull
+Foreign Object
+Whiplash

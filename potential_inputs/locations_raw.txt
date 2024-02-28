@@ -1,0 +1,1061 @@
+1. Abandoned Factory 
+2. Abandoned Mine 
+3. Abandoned Office 
+4. Abandoned Quarry 
+5. Abandoned Road 
+6. Abandoned Subway
+7. Abandoned Warehouse 
+8. Abbey
+9. Academy
+10. Active Volcano 
+11. Aerie 
+12. Aero Club
+13. Aerodrome 
+14. Agricultural Equipment Center
+15. Agricultural Experiments Facility
+16. Agricultural Service Center 
+17. Air Cargo Terminal 
+18. Air Passenger Terminal 
+19. Air Purification Plant
+20. Air Show
+21. Airborne Aircraft 
+22. Airborne Research Facility 
+23. Aircraft Bunker
+24. Aircraft Carrier 
+25. Aircraft Charter
+26. Aircraft Graveyard
+27. Aircraft Museum
+28. Aircraft on the Ground 
+29. Aircraft Repair Facility 
+30. Aircraft Service Center
+31. Aircraft Test & Simulations Facility 
+32. Airline Offices 
+33. Airpark
+34. Airport Control Tower 
+35. Airport Hangar 
+36. Airship 
+37. Airstrip
+38. Alarm Monitoring Center 
+39. Alter
+40. Amphibious Vehicle 
+41. Amphitheatre
+42. Amusement Park
+43. Amusement Park 
+44. An Abandoned Ship 
+45. Anchorage
+46. Anchorage or Mooring
+47. Ancient Battleground 
+48. Ancient Ruins 
+49. Animal Hospital 
+50. Animal Shelter 
+51. Animal Trail
+52. Animal Trainer 
+53. Annex
+54. Anomalous Mine
+55. Antique Aircraft Airfield
+56. Apartment Tower
+57. Aquarium 
+58. Aquatic Preserve
+59. Aqueduct 
+60. Arch Bridge 
+61. Archaeology Dig Site 
+62. Archipelago
+63. Arctic Fishing Cabin
+64. Arena 
+65. Armory 
+66. Arsenal 
+67. Art Gallery 
+68. Art Institute
+69. Art Museum 
+70. Art School 
+71. Artic Expedition HQ 
+72. Auction House 
+73. Audio Recording Studio 
+74. Auto Body Shop
+75. Auto Dealership 
+76. Auto Parts Shop 
+77. Automobile Graveyard
+78. Automobile Manufacturing Complex
+79. Automobile Museum
+80. Automobile Race Track
+81. Automobile Tunnel
+82. Aviary 
+83. Badlands 
+84. Bail Bond House 
+85. Ballet Studio 
+86. Ballroom 
+87. Banquet Facility 
+88. Bar 
+89. Barbershop 
+90. Barge
+91. Barn 
+92. Barracks
+93. Baseball Park
+94. Baseball Stadium
+95. Basement 
+96. Basin
+97. Basketball Arena
+98. Bathhouse
+99. Battle Field 
+100. Battleship 
+101. Bay 
+102. Bayou 
+103. Beach House 
+104. Beached Shipwreck 
+105. Beam Bridge 
+106. Beauty Salon 
+107. Bed & Breakfast 
+108. Beneath a Bridge 
+109. Bermuda Triangle
+110. Bible Institute
+111. Billiard Hall 
+112. Bluffs
+113. Boat Dealership 
+114. Boat House
+115. Boat Ramp
+116. Boat Taking on Water
+117. Bog 
+118. Bookshop 
+119. Border Crossing 
+120. Botanical Garden
+121. Bowling Alley 
+122. Box Canyon
+123. Brewery 
+124. Bridge
+125. Broadcast Tower 
+126. Bull Fighting Ring 
+127. Bungalow
+128. Bunker 
+129. Burial Mound
+130. Bus Depot
+131. Bus Station 
+132. Bus Stop 
+133. Bus Terminal 
+134. Busy Intersection
+135. Butcher Shop 
+136. Butte 
+137. Cabaret/Supper Club
+138. Cabin
+139. Cable Company
+140. Cable Television Company 
+141. Cable-Stayed Bridge 
+142. Cafeteria 
+143. Caldera
+144. Campground 
+145. Camping Area 
+146. Canal 
+147. Candy Factory 
+148. Cantilever Bridge 
+149. Canyon Mouth
+150. Cape 
+151. Car Wash 
+152. Cargo Aircraft 
+153. Cargo Container 
+154. Cargo Plane 
+155. Cargo Terminal 
+156. Carnival
+157. Casino 
+158. Castle 
+159. Cathedral 
+160. Causeway
+161. Cave
+162. Caverns 
+163. Cemetery 
+164. Cenote 
+165. Central Park
+166. Chalet 
+167. Chamber of Commerce 
+168. Chapel
+169. Chasm
+170. Checkpoint 
+171. Chemical Dump 
+172. Chemical Plant 
+173. Chemical Storage Facility
+174. Chemical Tanker Ship
+175. Chicken Farm
+176. Children's Hospital
+177. Children's Museum
+178. Chinese Junk (Sailing Ship)
+179. Chiropractic Clinic
+180. Church 
+181. Church Camp
+182. Church Tower 
+183. Cinema 
+184. Circus
+185. Citadel 
+186. Citrus Grove
+187. City
+188. City Center
+189. City Hall 
+190. Civic Center
+191. Clandestine Drug Lab
+192. Cliff
+193. Clinic 
+194. Clock Tower 
+195. Club House 
+196. Coal Mine 
+197. Coal Processing Plant
+198. Coal-Fired Power Plant 
+199. Coastal Game Preserve 
+200. Coastal Island 
+201. Coastal Marsh
+202. Coastal Resort
+203. Coastal Shallows 
+204. Coastline 
+205. Cocktail Lounge 
+206. Coffee House
+207. Collapsed Bridge 
+208. Collapsed Mine 
+209. Collapsed Tunnel 
+210. Collection Agency 
+211. College 
+212. Colonial Style Residence
+213. Combination Office/Warehouse
+214. Commercial Construction Area 
+215. Community Building
+216. Community College Complex
+217. Commuter Train 
+218. Concert Hall 
+219. Concrete, Sand, & Gravel Company 
+220. Condominium Tower
+221. Conference 
+222. Construction Crane
+223. Container Ship
+224. Convenience Store 
+225. Convent 
+226. Convention Center 
+227. Coral Reef 
+228. Correctional Institute Airport
+229. Correctional Institution
+230. Country Club 
+231. Country Store
+232. Courthouse 
+233. Cove 
+234. Covered Bridge 
+235. Cow Camp
+236. Crater
+237. Credit Union 
+238. Crematorium
+239. Crystal Mine 
+240. Culinary Institute 
+241. Culvert 
+242. Cypress Swamp
+243. Dairy Farm 
+244. Dam 
+245. Dance Club 
+246. Dance Hall 
+247. Dance Studio 
+248. Data Storage & Processing Center 
+249. Deep Canyon 
+250. Deep Canyon Bridge
+251. Deep Earth Exploration Facility 
+252. Deep in the Earth
+253. Deep Sea Trench
+254. Deep Sea Tugboat (Ship)
+255. Deep-Sea Research Submarine
+256. Delta
+257. Dense Jungle
+258. Dental Center 
+259. Department of Corrections Medical Center
+260. Department Store 
+261. Desert 
+262. Desert Basin
+263. Desert Flats 
+264. Desert Hills
+265. Desert Isle 
+266. Deserted Island
+267. Destroyer 
+268. Detention Facility
+269. Diamond Field
+270. Dike
+271. Diner 
+272. Dirigible 
+273. Distillery 
+274. District Office
+275. Ditch, or Small Canal
+276. Dive Boat 
+277. Dog Racing Track 
+278. Drag Strip 
+279. Drainage Canal
+280. Drive-In Movie Theatre 
+281. Drive-in Restaurant
+282. Drug & Alcohol Abuse Treatment Facility 
+283. Drug Laboratory 
+284. Dry Cleaner 
+285. Dry Dock 
+286. Dry Flood Channel
+287. Dry Gulch or Canyon
+288. Dry Riverbed 
+289. Dungeon 
+290. Election Headquarters 
+291. Electric Company
+292. Electric Company 
+293. Electrical Storm
+294. Electronics Manufacturer 
+295. Elementary School 
+296. Elevated Train 
+297. Embassy
+298. Emergency Response Center 
+299. Emergency Shelter 
+300. Engine House (Train)
+301. Engine Repair Shop 
+302. Environmental Rally 
+303. Esplanade 
+304. Estate 
+305. Estuary 
+306. Excavation 
+307. Exibition Center
+308. Exotic Restaurant 
+309. Experimental Facility 
+310. Experimental Station
+311. Experimental Vehicle 
+312. Exploration Submarine 
+313. Extra-Dimensional Gate 
+314. Factory 
+315. Fair
+316. Fallen Log Foot Bridge 
+317. Fallout Shelter 
+318. Falls
+319. Farm 
+320. Farm Equipment Dealership 
+321. Fast Food Restaurant 
+322. Ferris Wheel 
+323. Ferry Boat 
+324. Ferry Embarkation Point 
+325. Ferryboat 
+326. Festival
+327. Festival
+328. Filtration Plant
+329. Fine Dining Restaurant 
+330. Fire Academy
+331. Fire Department 
+332. Fire Station
+333. Fire Watchtower
+334. Fireworks Display 
+335. Fish Farm
+336. Fish Hatchery
+337. Fishing Boat 
+338. Fishing Lodge
+339. Fishing Pier
+340. Fishing Trawler (Small Ship)
+341. Fitness Center
+342. Fitness Center 
+343. Fixed Radar Site 
+344. Fjord
+345. Flats
+346. Flea Market 
+347. Flight School 
+348. Floating Casino 
+349. Floating Crane (Ship)
+350. Floating Dock 
+351. Floating Drydock (Ship)
+352. Flooded Bridge 
+353. Flooded Building, or Structure 
+354. Flooded River 
+355. Florist or Flower shop 
+356. Foot Bridge 
+357. Football Stadium
+358. Foothills 
+359. Foreign Restaurant 
+360. Forest 
+361. Forest Fire 
+362. Forested Hills 
+363. Fort 
+364. Fortified Bridge 
+365. Fortified Underground Complex
+366. Fortress 
+367. Fraternity House 
+368. Freight Train 
+369. Freighter (ship) 
+370. Frontier Style Residence
+371. Funeral Home 
+372. Funeral in Progress
+373. Gambling Den 
+374. Game Management Area
+375. Game Preserve 
+376. Gap
+377. Garage 
+378. Garden 
+379. Gas Company 
+380. Gas Station 
+381. Gas-Fired Power Plant
+382. Gate 
+383. General Cargo Ship
+384. Geological Park
+385. Geothermal Electric Plant
+386. Geothermal Park
+387. Geyser Park
+388. Ghost Town 
+389. Glacier 
+390. Glass-Bottomed Boat 
+391. Gold Mine 
+392. Gorge
+393. Government Academy
+394. Government Office Building
+395. Government Office Complex
+396. Government Offices 
+397. Grain Elevator
+398. Grain Mill
+399. Grain Storage Bin
+400. Grassy Heights
+401. Gravel Road 
+402. Greenhouse 
+403. Grocery Store 
+404. Grotto
+405. Grove 
+406. Guard House
+407. Guard Station
+408. Gulch
+409. Gun Shop 
+410. Gymnasium
+411. Gymnasium
+412. Gymnastics Center 
+413. Halfway House
+414. Harbor 
+415. Harbormasters Office
+416. Haunted House 
+417. Haven
+418. Haven
+419. Health Club 
+420. Helicopter 
+421. Helicopter Charter
+422. Helicopter Flight School
+423. Heliport
+424. Heliport 
+425. High Speed Patrol Boat
+426. Hiking Trails
+427. Hilltop 
+428. Hi-Rise Construction Site 
+429. Historic District 
+430. Historic Monument 
+431. History Museum 
+432. Hole, or Open Pit
+433. Holiday or Major Public Gathering 
+434. Hollow
+435. Homestead
+436. Horn
+437. Horse Park
+438. Horse Racing Track 
+439. Hospital 
+440. Hot Air Balloon 
+441. Hot Springs
+442. Hotel/Casino
+443. Hunter/Killer Submarine
+444. Hunting Lodge 
+445. Ice Pack 
+446. Ice Plain 
+447. Iceberg 
+448. Icebreaker Ship 
+449. Illegal Fighting Pits
+450. Import/Export Warehouse
+451. In the Eye of a Hurricane
+452. Inactive Volcano
+453. Incline Mine
+454. Incomplete Bridge 
+455. Indian Burial Grounds
+456. Indian Reservation
+457. Indoor Arena
+458. Indoor Gun Range
+459. Industrial Equipment Supply 
+460. Industrial Parts Plant
+461. Industrial Plant 
+462. Inlet 
+463. Inn 
+464. Institute
+465. Insurance Office 
+466. Intelligence Agency 
+467. Interchange 
+468. International Airport 
+469. Interstate or Highways 
+470. Interstellar Exploration Facility 
+471. Intervention Center
+472. Island Keys
+473. Jail 
+474. Jet Ski Terminal 
+475. Jetty
+476. Jewel Mine 
+477. Jewelry Shop 
+478. Junction
+479. Jungle 
+480. Jungle Isle 
+481. Junkyard 
+482. Karate Dojo 
+483. Kennel 
+484. Kennel Club
+485. Kindergarten & Daycare
+486. Knob
+487. Labor Union 
+488. Laboratory 
+489. Lagoon 
+490. Lake 
+491. Lakefront Cabin
+492. Landfill 
+493. Landing Craft (Ship)
+494. Landing Strip
+495. Large Apartment Complex 
+496. Large Canyon
+497. Large City Sewers
+498. Large Mesa 
+499. Large Office Building
+500. Large Waterfall 
+501. Laundromat 
+502. Lava Field
+503. Law Library
+504. Law Offices 
+505. Levee
+506. Library
+507. Light Buoy
+508. Light House 
+509. Lighted Data Tower
+510. Linguistics Institute
+511. Liquor Store 
+512. Listening Post 
+513. Loading Dock 
+514. Loch
+515. Lodge
+516. Log Cabin 
+517. Long Range Patrol Ship
+518. Lookout Tower
+519. Lumber Mill 
+520. Machine Shop
+521. Major Concert 
+522. Man-made Wonder 
+523. Mansion 
+524. Manufacturing Plant 
+525. Marina
+526. Marine & Boat Storage Facility 
+527. Marine Repair Facility 
+528. Marine Sanctuary 
+529. Marine Service & Fueling Station 
+530. Maritime Museum 
+531. Marketplace 
+532. Marsh 
+533. Marsh 
+534. Martial Arts Dojo 
+535. Martial Arts Facility
+536. Martial Arts Studio
+537. Mausoleum 
+538. Mausoleum Crypt
+539. Maze 
+540. Meadow
+541. Media Ceremony/ Event 
+542. Medical Center 
+543. Medical Laboratory 
+544. Medical Library
+545. Medical School 
+546. Medium Boat 
+547. Medium Office Building 
+548. Meeting House 
+549. Megalithic Ruin
+550. Memorial Library
+551. Memorial Park 
+552. Mental Health Center
+553. Mental Health Center 
+554. Merchant Ship 
+555. Metalworks Mill
+556. Microwave Relay Tower 
+557. Microwave Transmitter Tower
+558. Military Academy 
+559. Military Airbase 
+560. Military Bombing Range 
+561. Military Cruiser 
+562. Military Facility 
+563. Military Installation 
+564. Military Institute
+565. Military-Industrial Complex
+566. Mill 
+567. Mine 
+568. Missile Base 
+569. Mission (Church or Social)
+570. Mixed Jungle and Rice Paddies on Hillside Terraces
+571. Mobile Home 
+572. Mobile Home park
+573. Mobile Radar Site 
+574. Modern Bank
+575. Modern Hotel
+576. Monastery 
+577. Monument 
+578. Moon
+579. Morgue 
+580. Mosque 
+581. Motel 
+582. Motocross or Dirt Bike Raceway
+583. Motor Speedway 
+584. Motorcycle Dealership 
+585. Motorcycle Raceway 
+586. Mound 
+587. Mountain Climbing Expedition 
+588. Mountain Meadow
+589. Mountain Pass 
+590. Mountain Peak
+591. Mountain Range
+592. Mountain Spring
+593. Mountains 
+594. Mountainside Cliff 
+595. Mountainside Terraces
+596. Mountaintop 
+597. Movie Filming Location 
+598. Movie Studio 
+599. Movie Theatre 
+600. Moving Bridge 
+601. Municipal Airport
+602. Munitions Storage Facility 
+603. Narrow Canyon 
+604. National Historic Landmark 
+605. National Park 
+606. National Park Complex
+607. Native Holy Grounds 
+608. Natural Bridge 
+609. Natural Overlook 
+610. Natural Spring 
+611. Natural Wonder 
+612. Naval Station 
+613. Naval Supply Ship 
+614. Neck
+615. Newspaper 
+616. Nightclub 
+617. Nomad Camp
+618. Nuclear Attack Submarine
+619. Nuclear Plant 
+620. Nuclear Shelter Complex
+621. Nuclear Testing Ground 
+622. Nunnery
+623. Nursing Home 
+624. Oasis
+625. Observation Tower
+626. Observation Tower 
+627. Observatory 
+628. Ocean Front Bar/Tavern
+629. Ocean Liner 
+630. Ocean Storm
+631. Oceanfront Condominium
+632. Office Complex
+633. Office Tower 
+634. Oil & Gas Platform (Ocean)
+635. Oil & Gas Rig 
+636. Oil Terminal 
+637. Oilfield
+638. Old Bank 
+639. Old Hotel
+640. Old Sailing Vessel 
+641. Old Theatre 
+642. Old Town 
+643. Old Town Historical District
+644. Old U-Boat (Submarine)
+645. Open Pit 
+646. Open Pit Mine
+647. Opera Hall 
+648. Orchard 
+649. Ossuary 
+650. Outcropping
+651. Outdoor Concert
+652. Outer Space
+653. Outpost 
+654. Overnight Automobile/Passenger Ferry Ship
+655. Package Terminal 
+656. Packing Plant 
+657. Pagoda 
+658. Palace 
+659. Parachute School
+660. Paranormal Institute
+661. Park & Recreation Facility 
+662. Parking Garage 
+663. Parking Lot 
+664. Parliament
+665. Partially Buried Pyramid
+666. Passenger Cruise Ship
+667. Passenger Train 
+668. Patrol Vessel 
+669. Paved Airstrip 
+670. Pavilion 
+671. Pawnbroker 
+672. Performing Arts Awards Ceremony 
+673. Performing Arts Theatre 
+674. Pet Shop 
+675. Petroleum Manufacturing Facility 
+676. Petroleum Storage Facility 
+677. Photography Lab
+678. Picnic Area
+679. Pier 
+680. Pipeline Terminal 
+681. Pizza Palace 
+682. Placer Mine
+683. Plains or Grassland 
+684. Plant Nursery 
+685. Plant Nursery 
+686. Plastics Factory
+687. Plateau
+688. Playground 
+689. Plaza
+690. Point
+691. Police Station 
+692. Police Sub-Station
+693. Political Party HQ
+694. Political Rally 
+695. Polluted Waterway 
+696. Polo Club 
+697. Pond
+698. Pontoon Bridge 
+699. Pool
+700. Pool Hall 
+701. Post Office
+702. Post Office 
+703. Power Collection Array 
+704. Power Substation 
+705. Prep School 
+706. Preparatory School
+707. Primitive Village
+708. Print Shop 
+709. Prison 
+710. Prison Camp
+711. Prison Medical Center
+712. Private Beach 
+713. Private Golf Course 
+714. Private Home 
+715. Private Island
+716. Private Library 
+717. Private Park 
+718. Private School 
+719. Processing Facility 
+720. Protest March 
+721. Psychic Research Facility 
+722. Pub
+723. Public Beach
+724. Public Ceremony 
+725. Public Gathering 
+726. Public Golf Course 
+727. Public Library 
+728. Public Park 
+729. Publishing House
+730. Putt-Putt Golf Course 
+731. Race Track
+732. Racetrack
+733. Radio Station 
+734. Radio Telescope 
+735. Radioactive Mine 
+736. Radioactive Waste Storage Facility 
+737. Raft 
+738. Rail Yard 
+739. Railcar Wash 
+740. Railway
+741. Railway Bridge 
+742. Railway Platform 
+743. Railway Station 
+744. Railway Tunnel 
+745. Ranch 
+746. Ranger Station
+747. Rapids
+748. Recovery Ward 
+749. Recreation Area
+750. Recreation Area
+751. Recreational Vehicle 
+752. Recreational Vehicle Park
+753. Red-light District 
+754. Reef
+755. Refrigerated Ship
+756. Refrigerated Storage Facility 
+757. Regional Medical Center 
+758. Rehabilitation Center
+759. Religious Rally 
+760. Religious Retreat 
+761. Religious Sanctuary
+762. Remote Island 
+763. Remote Listening Post 
+764. Remote Research Facility 
+765. Remote Research Station 
+766. Rental Agency 
+767. Research Facility 
+768. Research Laboratory 
+769. Research Vessel 
+770. Reservoir
+771. Reservoir 
+772. Residential Construction Area 
+773. Resort 
+774. Resort, Golf Course, & Country Club
+775. Restaurant 
+776. Retail Store 
+777. Retirement Community
+778. Rice Paddy
+779. Ridge 
+780. Ridge 
+781. Rifle & Pistol Range 
+782. Rift Valley
+783. River 
+784. River Canyon
+785. River Ford 
+786. River Island 
+787. River Lock
+788. River Tunnel
+789. Riverbank
+790. Riverbend
+791. Riverboat (Paddlewheel) 
+792. Road 
+793. Road Fork
+794. Road Paving Company
+795. Road Tunnel 
+796. Roadside Store 
+797. Rock Garden 
+798. Rock Quarry 
+799. Rock Tower 
+800. Rocky Desert
+801. Rocky Ridges
+802. Rooftop 
+803. Rookery
+804. Rope Bridge
+805. Roundhouse (Train)
+806. Rugged Coastline 
+807. Ruins 
+808. Safari Preserve 
+809. Safe House
+810. Sailboat 
+811. Salt Flats 
+812. Salt Mine 
+813. Sand & Gravel Pit
+814. Sandbar 
+815. Sanitarium 
+816. Sargasso Sea
+817. Satellite
+818. Satellite Communications Center 
+819. Science & Industry Museum
+820. Science Institute
+821. Science Laboratory 
+822. Science Museum 
+823. Scientific Library
+824. Scrap Metal Yard
+825. Scrap Yard 
+826. Sculpture Garden 
+827. Sea Banks
+828. Sea Canyon
+829. Sea Cargo Terminal 
+830. Sea Going Hydrofoil (Ship)
+831. Sea Passenger Terminal 
+832. Sea Trench
+833. Seadrome
+834. Seaplane Base
+835. Secondary School 
+836. Secret Military Facility 
+837. Secret Stronghold 
+838. Secret Underground Stronghold 
+839. Security Center 
+840. Sewer Company
+841. Sewer Entrance 
+842. Sewers 
+843. Shaft Mine
+844. Shanty Town 
+845. Shantytown
+846. Ship Taking on Water
+847. Shipping Warehouse
+848. Shipwreck 
+849. Shipyard
+850. Shoals
+851. Shoals & Banks
+852. Shopping Center
+853. Shopping Mall 
+854. Shrine
+855. Silver Mine 
+856. Sink
+857. Sinkhole 
+858. Sinking Ship 
+859. Skateboard Rink 
+860. Skating Rink 
+861. Skating Rink 
+862. Ski Area
+863. Ski Lift 
+864. Ski Resort 
+865. Slaughterhouse
+866. Small Airport 
+867. Small Apartment Complex 
+868. Small Canyon 
+869. Small Day Passenger Ship
+870. Small Mesa 
+871. Small Office Building 
+872. Small Open Boat 
+873. Small Town
+874. Small Waterfall 
+875. Smooth Pyramid
+876. Snowfield 
+877. Snowy Crevasse 
+878. Solar Observatory 
+879. Solar Power Plant
+880. Solar System Exploration Facility 
+881. Sorority House 
+882. Spa 
+883. Space Landing Facility 
+884. Space Launch Facility 
+885. Space Station 
+886. Spacecraft 
+887. Spacecraft Repair Facility 
+888. Spanish Mission
+889. Speedboat 
+890. Sports Arena 
+891. Stables 
+892. Stadium 
+893. State Park 
+894. Station
+895. Steamship
+896. Steel Manufacturing Plant
+897. Steel Mill
+898. Stepped Pyramid
+899. Stockyard 
+900. Store 
+901. Strait or Sound 
+902. Street
+903. Strip Club 
+904. Strip Mall 
+905. Strip Mine 
+906. Structural Rubble
+907. Studio Back Lot 
+908. Sub-glacial Cave 
+909. Subterranean River
+910. Subway 
+911. Summer Camp
+912. Survivalist Enclave 
+913. Suspension Bridge 
+914. Swamp 
+915. Swimming Pool 
+916. Synagogue 
+917. Tanker (Ship)
+918. Tanning Salon
+919. Tavern 
+920. Taxi Company 
+921. Technology Gallery 
+922. Telecommunication Center 
+923. Teleconferencing Center 
+924. Telephone Company 
+925. Television Recording Studio 
+926. Television Station 
+927. Temple 
+928. Tents 
+929. Terrarium 
+930. Test Range
+931. Textiles Factory
+932. Textiles Mill
+933. The Docks 
+934. Theme Park
+935. Tire Dump 
+936. Toll Booth
+937. Toll Road
+938. Tomb 
+939. Tool Shop 
+940. Tour Bus 
+941. Town Bridge 
+942. Town Square
+943. Townhouse
+944. Toxic Waste Storage Facility 
+945. Trading Post
+946. Traffic Control Tower
+947. Trail Crossing
+948. Trailer 
+949. Trailer park
+950. Trailhead
+951. Train Depot
+952. Train Museum
+953. Train Station 
+954. Training Facility 
+955. Trash Company 
+956. Trash Dump 
+957. Travel Agency 
+958. Treatment Center
+959. Tree Nursery 
+960. Trolley 
+961. Truck Terminal 
+962. Truck Terminal 
+963. Tug Boat 
+964. Tundra
+965. Tunnel
+966. Tunnel Mine
+967. Ultralight Aircraft School
+968. Underground Bunker Complex 
+969. Underground Garage 
+970. Underground Mall 
+971. Underground Storage Facility 
+972. Underground Stronghold 
+973. Undersea Tunnel
+974. Underwater - Deep Sea 
+975. Underwater Caves & Caverns 
+976. Underwater -Coastal 
+977. Underwater Facility 
+978. Underwater Kelp Farm 
+979. Underwater Pen or Contained Area 
+980. Underwater Preserve
+981. Underwater Research Facility
+982. Union Hall 
+983. University 
+984. University Experimental Farm
+985. Unpaved Airstrip 
+986. Unusual Rock Formation
+987. Urban Fire 
+988. Urban Street 
+989. Valley 
+990. Vast Antennae Array 
+991. Vault 
+992. Vehicle Tire Store
+993. Victorian Residence
+994. Villa
+995. Village
+996. Vineyards 
+997. Volunteer Fire Department
+998. War Museum
+999. Warehouse 
+1000. Warehouse District 
+1001. Warm Springs
+1002. Washed-Out Bridge 
+1003. Washed-Out Road 
+1004. Waste Water Treatment Plant 
+1005. Wastewater Treatment Plant
+1006. Watchtower
+1007. Water Buoy
+1008. Water Garden
+1009. Water Garden 
+1010. Water Hole
+1011. Water Landing
+1012. Water Park 
+1013. Water Passage
+1014. Water Pumping Station
+1015. Water Pumping Station 
+1016. Water Purification Plant 
+1017. Water Tower 
+1018. Water Trail
+1019. Waterfront Commercial
+1020. Waterfront Industrial
+1021. Waterfront Restaurant
+1022. Watermill
+1023. Watershed
+1024. Waterworks 
+1025. Wax Museum 
+1026. Weapons Laboratory 
+1027. Wedding Hall
+1028. Wedding in Progress
+1029. Welcome Center
+1030. Welding Equipment Store 
+1031. Well 
+1032. Well House
+1033. Whaling Boat 
+1034. Whitewater Rapids
+1035. Wide Canyon 
+1036. Wild Animal Park 
+1037. Wilderness Park 
+1038. Wildlife Refuge 
+1039. Wildlife Rehabilitation Center 
+1040. Wildlife Sanctuary 
+1041. Windmill
+1042. Winery 
+1043. Woodshop 
+1044. Workshop
+1045. Worlds Fair 
+1046. Wreck 
+1047. Yacht 
+1048. Yacht & Country Club
+1049. Yacht Center
+1050. Yacht Harbor
+1051. Yacht Show
+1052. Youth Camp
+1053. Youth Center 
+1054. Zoo
+1056. Museum. 
+1057. Art Museum
+1058. Science Museum
+1059. Museum of Natural Science
+1060. Cultural Museum
+1061. Aviation Museum
+1062. Sports Hall of Fame

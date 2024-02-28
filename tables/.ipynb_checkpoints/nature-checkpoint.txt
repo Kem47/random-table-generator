@@ -1,0 +1,16 @@
+Earthquake
+Volcano
+Landslide
+Hurricanes 
+Tornados
+Cyclones
+Extreme rainfall
+Extreme snowfall
+Extreme hail
+Acid Rain
+Flooding
+Extreme Cold
+Extreme Heat
+Wildfire
+Lightning
+Fog

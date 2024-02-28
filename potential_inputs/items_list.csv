@@ -1,0 +1,144 @@
+﻿item,cost,price_category,type,subtype
+Combat Knife,50,costly,Melee Weapon,Light Melee Weapon
+Tomahawk,50,costly,Melee Weapon,Light Melee Weapon
+Baseball Bat,50,costly,Melee Weapon,Medium Melee Weapon
+Crowbar,50,costly,Melee Weapon,Medium Melee Weapon
+Machete,50,costly,Melee Weapon,Medium Melee Weapon
+Lead Pipe,100,premium,Melee Weapon,Heavy Melee Weapon
+Sword,100,premium,Melee Weapon,Heavy Melee Weapon
+Spiked Bat,100,premium,Melee Weapon,Heavy Melee Weapon
+Chainsaw,500,expensive,Melee Weapon,Very Heavy Melee Weapon
+Sledgehammer,500,expensive,Melee Weapon,Very Heavy Melee Weapon
+Helicopter Blade,500,expensive,Melee Weapon,Very Heavy Melee Weapon
+Naginata,500,expensive,Melee Weapon,Very Heavy Melee Weapon
+Medium Pistol,50,costly,Ranged Weapon,Handgun
+Heavy Pistol,100,premium,Ranged Weapon,Handgun
+Very Heavy Pistol,100,premium,Ranged Weapon,Handgun
+SMG,100,premium,Ranged Weapon,Handgun
+Heavy SMG,100,premium,Ranged Weapon,Handgun
+Shotgun,500,expensive,Ranged Weapon,Shoulder Arms
+Assault Rifle,500,expensive,Ranged Weapon,Shoulder Arms
+Sniper Rifle,500,expensive,Ranged Weapon,Shoulder Arms
+Bow,100,premium,Ranged Weapon,Archery
+Crossbow,100,premium,Ranged Weapon,Archery
+Grenade Launcher,500,expensive,Ranged Weapon,Heavy Arms
+Rocket Launcher,500,expensive,Ranged Weapon,Heavy Arms
+Bayonet,100,premium,Weapon Attachment,
+Drum Magazine,500,expensive,Weapon Attachment,
+Extended Magazine,100,premium,Weapon Attachment,
+Grenade Launcher Underbarrel,500,expensive,Weapon Attachment,
+Infrared Nightvision Scope,500,expensive,Weapon Attachment,
+Shotgun Underbarrel,500,expensive,Weapon Attachment,
+Smartgun Link,500,expensive,Weapon Attachment,
+Sniping Scope,100,premium,Weapon Attachment,
+Basic Ammo,10,cheap,Ammo,
+Armor-Piercing Ammo,100,premium,Ammo,
+Biotoxin Ammo,500,expensive,Ammo,
+EMP Ammo,500,expensive,Ammo,
+Expansive Ammo,100,premium,Ammo,
+Flashbang Ammo,100,premium,Ammo,
+Incendiary Ammo,100,premium,Ammo,
+Poison Ammo,100,premium,Ammo,
+Rubber Ammo,10,cheap,Ammo,
+Sleep Ammo,500,expensive,Ammo,
+Smart Ammo,500,expensive,Ammo,
+Smoke Ammo,50,costly,Ammo,
+Teargas Ammo,50,costly,Ammo,
+Air Pistol,100,premium,Exotic Weapon,
+Battleglove,1000,very expensive,Exotic Weapon,
+Constitution Arms Hurricane Assault Weapon,5000,luxury,Exotic Weapon,
+Dartgun,100,premium,Exotic Weapon,
+Flamethrower,500,expensive,Exotic Weapon,
+Kendachi Mono-Three,5000,luxury,Exotic Weapon,
+Malorian Arms 3516,10000,super luxury,Exotic Weapon,
+Microwaver,500,expensive,Exotic Weapon,
+"Militech ""Cowboy"" U-56 Grenade Launcher",5000,luxury,Exotic Weapon,
+Rhinemetall EMG-86 Railgun,5000,luxury,Exotic Weapon,
+Shrieker,500,expensive,Exotic Weapon,
+Stun Baton,100,premium,Exotic Weapon,
+Stun Gun,100,premium,Exotic Weapon,
+Tsunami Arms Helix,5000,luxury,Exotic Weapon,
+Leathers,20,everyday,Armor,
+Kevlar,50,costly,Armor,
+Light Armorjack,100,premium,Armor,
+Bodyweight Suit,1000,very expensive,Armor,
+Medium Armorjack,100,premium,Armor,
+Heavy Armorjack,500,expensive,Armor,
+Flak,500,expensive,Armor,
+Metalgear,5000,luxury,Armor,
+Bulletproof Shield,100,premium,Armor,
+Agent,100,premium,Gear,
+Airhypo,50,costly,Gear,
+Anti-Smog Breathing,20,everyday,Gear,
+Audio Recorder,100,premium,Gear,
+Auto Level Dampening Ear Protectors,1000,very expensive,Gear,
+Binoculars,50,costly,Gear,
+Braindance Viewer,1000,very expensive,Gear,
+Bug Detector,500,expensive,Gear,
+Carryall,20,everyday,Gear,
+Chemical Analyzer,1000,very expensive,Gear,
+Computer,50,costly,Gear,
+Cryopump,5000,luxury,Gear,
+Cryotank,5000,luxury,Gear,
+Cyberdeck (Excellent Quality),1000,very expensive,Gear,
+Cyberdeck (Poor Quality),100,premium,Gear,
+Cyberdeck (Standard Quality),500,expensive,Gear,
+Disposable Cell Phone,50,costly,Gear,
+Drum Synthesizer,500,expensive,Gear,
+Duct Tape,20,everyday,Gear,
+Electric Guitar or another Instrument,500,expensive,Gear,
+Flashlight,20,everyday,Gear,
+Food Stick,10,cheap,Gear,
+Glow Paint,20,everyday,Gear,
+Glow Stick,10,cheap,Gear,
+Grapple Gun,100,premium,Gear,
+Handcuffs,50,costly,Gear,
+Homing Tracer,500,expensive,Gear,
+Inflatable Bed & Sleep-bag,20,everyday,Gear,
+Kibble Pack,10,cheap,Gear,
+Linear Frame Sigma,1000,very expensive,Gear,
+Lock Picking Set,20,everyday,Gear,
+Medscanner,1000,very expensive,Gear,
+Medtech Bag,100,premium,Gear,
+Memory Chips,10,cheap,Gear,
+MRE,10,cheap,Gear,
+Personal CarePak,20,everyday,Gear,
+Pocket Amplifier,50,costly,Gear,
+Radar Detector,500,expensive,Gear,
+Radio Communicator,100,premium,Gear,
+Radio Scanner / Music Player,50,costly,Gear,
+Road Flare,10,cheap,Gear,
+Rope (60m),20,everyday,Gear,
+Scrambler / Descrambler,500,expensive,Gear,
+Smart Glasses,500,expensive,Gear,
+Tech Bag,500,expensive,Gear,
+Techscanner,1000,very expensive,Gear,
+Techtool,100,premium,Gear,
+Tent & Camping Equipment,50,costly,Gear,
+Vial of Biotoxin,500,expensive,Gear,
+Vial of Poison,100,premium,Gear,
+Video Camera,100,premium,Gear,
+Virtuality Goggles,100,premium,Gear,
+Black Lace,50,costly,Drugs,
+Blue Glass,20,everyday,Drugs,
+Boost,50,costly,Drugs,
+Smash,10,cheap,Drugs,
+Synthcoke,20,everyday,Drugs,
+Bottoms,500,expensive,Fashion,Businesswear
+Top,50,costly,Fashion,Businesswear
+Jacket,500,expensive,Fashion,Businesswear
+Footwear,500,expensive,Fashion,Businesswear
+Jewelry,5000,luxury,Fashion,Businesswear
+Mirrorshades,500,expensive,Fashion,Businesswear
+Glasses,500,expensive,Fashion,Businesswear
+Contact Lenses,100,premium,Fashion,Businesswear
+Hat,500,expensive,Fashion,Businesswear
+Bottoms,1000,very expensive,Fashion,High Fashion
+Top,500,expensive,Fashion,High Fashion
+Jacket,1000,very expensive,Fashion,High Fashion
+Footwear,5000,luxury,Fashion,High Fashion
+Jewelry,50000,super luxury,Fashion,High Fashion
+Mirrorshades,1000,very expensive,Fashion,High Fashion
+Glasses,1000,very expensive,Fashion,High Fashion
+Contact Lenses,1000,very expensive,Fashion,High Fashion
+Hat,5000,luxury,Fashion,High Fashion

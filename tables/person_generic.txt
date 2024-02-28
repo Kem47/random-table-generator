@@ -1,0 +1,13 @@
+homeless @person_generic
+*0.1 baby boy %0.25.[with @disability] %0.05.[and @disability]
+*0.1 baby girl %0.25.[with @disability] %0.05.[and @disability]
+* pre-teen girl %0.25.[with @disability] %0.05.[and @disability]
+* pre-teen boy %0.25.[with @disability] %0.05.[and @disability]
+teenage girl %0.25.[with @disability] %0.05.[and @disability]
+teenage boy %0.25.[with @disability] %0.05.[and @disability]
+^ young man %0.25.[with @disability] %0.05.[and @disability]
+^ young woman %0.25.[with @disability] %0.05.[and @disability]
+^ adult man %0.25.[with @disability] %0.05.[and @disability]
+^ adult woman %0.25.[with @disability] %0.05.[and @disability]
+^10 elderly man %0.6.[with @disability] %0.05.[and @disability]
+elderly woman %0.25.[with @disability] %0.05.[and @disability]

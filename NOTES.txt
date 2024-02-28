@@ -1,0 +1,55 @@
+# number
+can have 2 inputs separated by .
+first input (must have): vlo/lo/med/hi/vhi - what kind of probability curve do you want to generate this number
+second input (optional): max value you want it to have
+
+
+@ other roll table
+must be an exact name of the other file you are referring to (without .txt)
+
+DO NOT use spaces in the names of files for tables.
+keep the names of the tables simple
+they must be in .txt file format
+
+when using a table reference in a sentence make sure you separate any punctuation from the reference
+DON'T: (2 @animal) OR should I bring in @threat?
+DO: (2 @animal ) OR should I bring in @threat ?
+
+it was either limit the characters that are allowed in the names of tables or maintain discipline while referencing.
+This can be changed if overwhelming number of people want it to be the other way around.
+
+
+% option
+chance of coming up with the next thing. 
+if blank the default value is X. 
+if this is used within a larger sentence then enclose what you want to be chance occurence with []
+E.g.:
+%@corporation
+%0.9@animal
+
+%@person_generic comes in fight happens
+in the above example "comes in fight happens" will always appear. Do this instead
+%[@person_generic comes in] fight happens
+
+
+
+* lower the chance
+leave it empty for standard value of X or input your own value right after it
+makes sure there is a space between this and the beginning of your actual line
+
+
+^ increase the chance
+leave it empty for standard value of X or input your own value right after it
+makes sure there is a space between this and the beginning of your actual line
+
+
+$ boolean
+default at 0.5 or input your own success value
+can have 2 optional values - separated by .
+First value for success, second for the opposite
+
+
+< >
+
+
+

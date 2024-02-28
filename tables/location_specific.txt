@@ -1,0 +1,7 @@
+top of @corporation tower
+middle of @corporation tower
+lobby of @corporation tower
+@corporation manufacturing plant
+@corporation field branch
+@corporation convoy at/in/on @location_generic
+Cryobody bank

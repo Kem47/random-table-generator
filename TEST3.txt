@@ -1,0 +1,1 @@
+mission: #med.5 @corporation goons come in towing @animal and they are driving a @vehicle_land_generic

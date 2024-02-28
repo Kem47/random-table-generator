@@ -1,0 +1,14 @@
+accident at @corporation 
+@vehicle_land_generic accident
+@vehicle_air_generic accident
+@vehicle_sea_generic accident
+@corporation strike team %0.7.[,opposition has TT membership]
+@corporation security team %0.3.[,opposition has TT membership]
+@corporation samurai %0.9.[,opposition has TT membership]
+@nature
+#lo @animal attack
+radiation
+locked in a basement of a house %.[by @person_generic]
+locked in a room in a @corporation tower %.[by @person_generic]
+locked in a room in a megablock %.[by @person_generic]
+locked in a box, buried underground %.[by @person_generic]

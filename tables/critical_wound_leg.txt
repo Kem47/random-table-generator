@@ -1,0 +1,22 @@
+Stubbed Toe
+Twisted Ankle
+Minor Cut
+Thigh Strike
+Sprained Ankle
+Twisted Knee
+Badly Cut Toe
+Bad Cut
+Badly Twisted Knee
+Hacked Leg
+Torn Thigh
+Ruptured Tendon
+Carved Shin
+Broken Knee
+Dislocated Knee
+Crushed Foot
+Severed Foot
+Cut Tendon
+Shattered Pelvis
+Severed #med.10 toes
+Crushed #med.10 toes
+Foreign Object

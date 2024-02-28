@@ -1,0 +1,6 @@
+control line @animal space
+test1 %.[success].[fail]
+test2 %0.9.[friends forever] or %.[never will be @animal]
+test3 %.[hola %0.9.[beef without %0.7.[we are victorious] soup]]
+test4 %.[inside the brackets].[second bracket] outside the brackets
+@test_bridge #vlo.10

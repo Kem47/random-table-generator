@@ -1,0 +1,106 @@
+hospital GP
+clinic GP
+hospital nurse
+clinic nurse
+hospital dentist
+private dentist
+hospital surgeon
+private clinic surgeon
+ripperdoc
+netrunner
+solo
+corporate security officer
+local beat cop
+county sheriff's officer
+county sheriff
+recovery zone marshal
+* C-SWAT officer
+*0.1 MAX-TAC officer
+* Interpol officer
+* FBI officer
+* Netwatch runner
+escort
+prostitute
+personal trainer
+bodyguard
+personal assistant
+stylist
+spy
+intelligence officer
+spy handler
+valet
+personal driver
+IT engineer
+research specialist
+Accountant
+Actor
+Architect
+Astronomer
+Author
+Baker
+Bricklayer
+Bus
+Butcher
+Carpenter
+Chef/Cook
+Cleaner
+Dentist
+Designer
+Dustman/Refuse collector
+Electrician
+Engineer
+Factory worker
+Farmer
+Fireman/Fire fighter
+Fisherman
+Florist
+Gardener
+Hairdresser
+Journalist
+Judge
+Lawyer
+Lecturer
+Librarian
+Lifeguard
+Mechanic
+Model
+Newsreader
+Optician
+Painter
+Pharmacist
+Photographer
+Pilot
+Plumber
+Politician
+Policeman/Policewoman
+Postman
+Real estate agent
+Receptionist
+Scientist
+Secretary
+Shop assistant
+Soldier
+Tailor
+Taxi driver
+Teacher
+Translator
+Traffic warden
+Travel
+Vet
+Waiter/Waitress
+Window cleaner
+Biologist at %.[@corporation].[university/academy]
+Physicist at %.[@corporation].[university/academy]
+Chemist at %.[@corporation].[university/academy]
+Biochemist at %.[@corporation].[university/academy]
+Data Scientist at %.[@corporation]
+Data Engineer at %.[@corporation]
+Data Analyst at %.[@corporation]
+Research Assistant at %.[@corporation].[university/academy]
+Junior Executive at @corporation
+*0.1 Corpo Manager at @corporation
+*0.05 Assistant Vice President at @corporation
+*0.01 Executive Vice President at @corporation
+*0.01 President of @corporation
+*0.01 Board of Directors member of @corporation
+*0.01 Chairman of the Board of @corporation
